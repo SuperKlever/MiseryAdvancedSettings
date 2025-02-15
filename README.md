@@ -6,7 +6,7 @@ Main features:
 
 - The ability to choose any starting location
 - Unlock clothes, tools, food, ammo and some other items that locked in Interloper and Misery modes
-- Unlock revolver and rifle. Spawn revolver in 1 spot in each location that can contain it. Also unlocks some rifle spawns
+- Unlock revolver and rifle. Spawn revolver in 1 spot in each scene that can contain it. Also unlocks some rifle spawns
 
 ## Installation
 
